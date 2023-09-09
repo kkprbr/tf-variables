@@ -22,3 +22,15 @@ variable "subnet1_cidr_prefix" {
     type = string 
     description = "this variable defined address space for subnet"
 }
+
+variable "subnet" {
+   type = string
+   description = "this variable defined subnet name"
+}
+
+
+
+
+
+
+
